@@ -10,3 +10,5 @@ Ahora ya vereis el proyecto con solo un fichero en src, un test, con un solo met
 -  boton derecho sobre el nombre de la funcion -> Run -> testItWorks()
 
 *( pongo los `testItWorks()` que se ejecuta con junit, si usais el de arriba con el icono de gradle y sin los parentesis el resultado del test será menos legible )*
+
+**El test DEBE fallar, esperaba 3, y ha recibido un 4.**
